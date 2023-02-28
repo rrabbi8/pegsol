@@ -4,7 +4,7 @@
 This is a AI solver for Peg Solitaire. 
 
 The Peg Solitaire game
-As explained in the [wikipedia entry] (https://en.wikipedia.org/wiki/Peg_solitaire#Play). The player can move a peg jumping on top of another adjacent
+As explained in the [wikipedia entry](https://en.wikipedia.org/wiki/Peg_solitaire#Play). The player can move a peg jumping on top of another adjacent
 peg, if there is a free adjacent cell to land. There are 4 valid jumps: Left, Right, Up and Down.
 
 The objective is to clean the board until there is only 1 peg left. Some variants require that the last
