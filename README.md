@@ -43,28 +43,27 @@ Run Makefile
 Run Pegsol AI solver
 
 ```bash
-  To run the AI solver, <level> and <budget> are integers, play_solution is optional:
+  
   
   ./pegsol <level> AI <budget> play_solution
+    
+```
   
   
-  e.g: ./pegsol 5 AI 1200000 play_solution
+  e.g: ./pegsol 5 AI 1200000 play_solution (play_solution is optional)
   
   Will run the 6th layout expanding maximum 1.2M nodes and will play the soltution found.
   
-  
-```
 
-Run Pegsol 
+
+Play with Keyboard
 
 ```bash
-  To play with the keyboard is:
 
   ./pegsol <level>
 
-  where, <level> is an integer 0-8
-
 ```
+where, <level> is an integer 0-8
 
 
 ## Output
