@@ -68,4 +68,4 @@ where, <level> is an integer 0-8
 
 ## Output
 
-![Sample Output](https://github.com/rrabbi8/pegsol/issues/1#issue-1602812207)
+<img width="385" alt="Screenshot 2023-02-28 at 9 59 36 pm" src="https://user-images.githubusercontent.com/76940637/221839692-41381b54-0a59-407a-abfa-d36d9884e2af.png">
